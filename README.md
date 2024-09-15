@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SpyderRex
-- 👀 I’m interested in Python, Artificial Intelligence, and Quantum Computing.
-- 🌱 I’m currently learning Data Science and Machine Learning with Python.
-- 💞️ I’m looking to collaborate on anything that will help me, as a novice programmer, become a better programmer.
+- 🕷️ Hi, I’m @SpyderRex
+- 🐍 I am a self-taught coder and a student of Python.
+- 🤖 My focus is mostly AI, especially building autonomous agent programs.
+- 📱 I do all of my coding on Android, so most of my projects are geared toward this kind of thing.
 - 📫 How to reach me: email me at: billyjohnsonauthor@gmail.com.
 
 <!---
